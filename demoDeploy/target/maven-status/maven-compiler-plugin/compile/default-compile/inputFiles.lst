@@ -1,0 +1,6 @@
+/Users/sebacastro/eclipse-workspace/demoDeploy/src/main/java/cl/sebacastro/producto/DemoDeployApplication.java
+/Users/sebacastro/eclipse-workspace/demoDeploy/src/main/java/cl/sebacastro/producto/controller/HomeController.java
+/Users/sebacastro/eclipse-workspace/demoDeploy/src/main/java/cl/sebacastro/producto/controller/ProductoController.java
+/Users/sebacastro/eclipse-workspace/demoDeploy/src/main/java/cl/sebacastro/producto/model/Producto.java
+/Users/sebacastro/eclipse-workspace/demoDeploy/src/main/java/cl/sebacastro/producto/repository/IProductoRepository.java
+/Users/sebacastro/eclipse-workspace/demoDeploy/src/main/java/cl/sebacastro/producto/service/ProductoService.java
